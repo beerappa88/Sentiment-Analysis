@@ -1,2 +1,2 @@
 # Sentiment-Analysis
-Sentiment Analysis
+Sentiment Analysis: This project focuses on analyzing sentiment in text data. By employing natural language processing techniques, it aims to determine the sentiment (positive, negative, or neutral) expressed in textual content. Leveraging machine learning or deep learning models, the project endeavors to classify and interpret sentiments within the provided text, offering insights that can be valuable for understanding public opinion, customer feedback, and social media sentiment trends.
